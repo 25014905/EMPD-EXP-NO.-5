@@ -52,9 +52,7 @@
 ![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/Screenshot%202026-03-24%20133815.png?raw=true)
 ![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/Screenshot%202026-03-24%20133851.png?raw=true)
 ![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/Screenshot%202026-03-24%20133908.png?raw=true)
-![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/Screenshot%202026-03-24%20133815.png?raw=true)
-
-
+![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/Screenshot%202026-03-24%20133933.png?raw=true)
 ## Output:
 ![image](https://github.com/25014905/EMPD-EXP-NO.-5/blob/main/WhatsApp%20Image%202026-03-15%20at%207.33.36%20PM.jpeg?raw=true)
 
